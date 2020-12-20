@@ -1,6 +1,6 @@
 # Correlation between hospitalized patients’ demographics, symptoms, comorbidities, and COVID-19 pandemic in Bahia, Brazil
  
-by Márcio Macedo, Isabelle Pinheiro, [Caio Carvalho](https://github.com/cjlcarvalho), Hilda Fraga, [Isaac Araujo](https://github.com/isaacpcaraujo), Simone Montes, Otávio Araujo, Lucas Alves, Hugo Saba, Márcio Araújo, Ivonete Queiroz, Romilson Sampaio, Márcia Souza, Ana Silva, and Antonio Souza.
+by Márcio Macedo, Isabelle Pinheiro, [Caio Carvalho](https://github.com/cjlcarvalho), Hilda Fraga, [Isaac Araujo](https://github.com/isaacpcaraujo), Simone Montes, [Otávio Araujo](https://github.com/otaviocrtx), Lucas Alves, Hugo Saba, Márcio Araújo, Ivonete Queiroz, Romilson Sampaio, Márcia Souza, Ana Silva, and Antonio Souza.
 
 ### Overview
 
